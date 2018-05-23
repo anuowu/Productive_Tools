@@ -52,7 +52,7 @@
 + 使用`*斜体*` 表示*斜体*  
 
 # 图片
-![shanghai](https://www.lonelyplanet.com/china/shanghai)
+![baidu](http://www.baidu.com/img/bdlogo.gif '百度')
 
 # 链接
 + 行内式  
