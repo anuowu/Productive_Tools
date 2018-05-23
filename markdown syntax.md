@@ -44,8 +44,8 @@
 + 列表1
 + 列表2  
 
-1 列表1  
-2 列表2  
+1. 列表1  
+2. 列表2  
 
 github 支持任务列表模式  
 - [ ] 表示待做`- [ ] `  
@@ -100,6 +100,7 @@ print(m.groups())
 `[1]:(https://github.com/anuowu/productive_tools)`  
 **效果**  
 [anuowu的Markdown库][1]  
+
 [1]:(https://github.com/anuowu/productive_tools)  
 
 # 表格
@@ -137,3 +138,9 @@ github 支持 markdown 语法的表情
 # 目录
 markdown支持使用锚点的方式快速到达某个位置  
 `[标题](#标题)`[标题](#标题)
+
+---
+参考：  
+1. [younghz](https://github.com/younghz/Markdown)  
+2. [guodongxiaren](https://github.com/guodongxiaren/README)  
+3. [riku](https://github.com/riku/Markdown-Syntax-CN/blob/master/syntax.md)
