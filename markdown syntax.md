@@ -68,7 +68,7 @@
 
 **效果**  
 first header | second header | third header   
--------------| ------------- | -----------  
+------------ | ------------- | -----------  
 content cell | content cell  | content cell  
 content cell | content cell  | content cell  
 表格对齐  
