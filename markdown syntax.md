@@ -76,7 +76,7 @@ content cell | content cell  | content cell
 
 表格对齐  
 >`first header | second header | third header`  
->`:-------------| :-------------: | -----------:`   
+>`:------------| :-----------: | -----------:`   
 >`content cell | content cell  | content cell`    
 >`content cell | content cell  | content cell`  
 
@@ -88,6 +88,6 @@ content cell   |   content cell    |   content cell
 content cell   |   content cell    |   content cell    
 
 # 表情
-guthub 支持 markdown 语法的表情  
+github 支持 markdown 语法的表情  
  :bowtie: :joy: :stuck_out_tongue_closed_eyes:
 可以从[https://www.webpagefx.com/tools/emoji-cheat-sheet/](https://www.webpagefx.com/tools/emoji-cheat-sheet/)发现更多的表情
