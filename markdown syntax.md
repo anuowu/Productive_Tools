@@ -82,8 +82,14 @@ print(m.groups())
 `[anuowu的Markdown库](https://github.com/anuowu/productive_tools)`  
 **效果**  
 [anuowu的Markdown库](https://github.com/anuowu/productive_tools)  
++ 参考式  
+`[anuowu的Markdown库][1]`  
+`[1]:(https://github.com/anuowu/productive_tools)`  
+**效果**  
+[anuowu的Markdown库][1]  
+[1]:(https://github.com/anuowu/productive_tools)  
 
-# 列表
+# 表格
 >`first header | second header | third header`  
 >`-------------| ------------- | ----------- `   
 >`content cell | content cell  | content cell`    
