@@ -57,9 +57,9 @@
 
 # 链接
 + 行内式  
-`[anuowu的Markdown库](https:://github.com/anuowu/productivea_tools.git)`  
+`[anuowu的Markdown库](https:://github.com/anuowu/productivea_tools)`  
 **效果**  
-[anuowu的Markdown库](https:://github.com/anuowu/productivea_tools.git)  
+[anuowu的Markdown库](https:://github.com/anuowu/productivea_tools)  
 
 # 列表
 >`first header | second header | third header`  
