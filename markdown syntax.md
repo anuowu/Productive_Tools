@@ -1,3 +1,4 @@
+[toc]
 # 标题
 标题可以使用`#`来标注
 >`# 一级标题`  
@@ -45,16 +46,17 @@
 >> line4    
 
 # 代码块
-代码块可以使用\` \`，四个空格缩进或者\``` \```来使用  
+代码块可以使用\` \`或者\``` \```来使用  
 * \` \` 表示的是行内代码  
 * \``` \``` 则表示的是一个代码块  
-* 四个空格缩进也可以表示代码块  
 
 这里是代码块  
-   import re  
-   sa = re.compile(r'\w+@\w+\.com')  
-   m = sa.match('hugowu@163.com')  
-   print(m.groups())
+```python
+import re  
+sa = re.compile(r'\w+@\w+\.com')  
+m = sa.match('hugowu@163.com')  
+print(m.groups())
+```
 
 # 强调
 + 使用`**强调**` 表示**强调**    
