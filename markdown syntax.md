@@ -49,16 +49,17 @@
 
 # 强调
 + 使用`**强调**` 表示**强调**    
-+ 使用`*斜体*` 表示*斜体*  
++ 使用`*斜体*` 表示*斜体*
++ 使用`*你**可以**强调他们* `表示*你**可以**强调他们*  
 
 # 图片
 ![baidu](http://www.baidu.com/img/bdlogo.gif '百度')
 
 # 链接
 + 行内式  
-`[younghz的Markdown库](https:://github.com/younghz/Markdown "Markdown")`  
+`[anuowu的Markdown库](https:://github.com/anuowu/productivea_tools.git)`  
 **效果**  
-[younghz的Markdown库](https:://github.com/younghz/Markdown "Markdown")  
+[anuowu的Markdown库](https:://github.com/anuowu/productivea_tools.git)  
 
 # 列表
 >`first header | second header | third header`  
@@ -67,10 +68,12 @@
 >`content cell | content cell  | content cell`  
 
 **效果**  
+
 first header | second header | third header   
 ------------ | ------------- | -----------  
 content cell | content cell  | content cell  
 content cell | content cell  | content cell  
+
 表格对齐  
 >`first header | second header | third header`  
 >`:-------------| :-------------: | -----------:`   
@@ -78,6 +81,7 @@ content cell | content cell  | content cell
 >`content cell | content cell  | content cell`  
 
 **效果**  
+
 first header   |   second header   |   third header     
 :-----------   |   :----------:    |   ----------:  
 content cell   |   content cell    |   content cell    
