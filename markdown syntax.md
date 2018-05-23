@@ -86,3 +86,7 @@ first header   |   second header   |   third header
 :-----------   |   :----------:    |   ----------:  
 content cell   |   content cell    |   content cell    
 content cell   |   content cell    |   content cell    
+
+# 表情
+guthub 支持 markdown 语法的表情  
+:bowtie:  
