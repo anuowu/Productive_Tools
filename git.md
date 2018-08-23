@@ -23,10 +23,10 @@
 3. 提交更新， 将保存在暂存区域的文件快照永久存入git目录
 
 ### 1.3 git安装
-####在linux下安装
+- 在linux下安装
 `sudo apt-get install git`
 
-####在window下安装
+- 在window下安装
 可以从[git 官网](https://git-scm.com/download/win)下载window下的命令行工具
 
 ### 1.4 配置用户信息
